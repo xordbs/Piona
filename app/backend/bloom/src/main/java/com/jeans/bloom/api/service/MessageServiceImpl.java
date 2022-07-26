@@ -27,7 +27,7 @@ public class MessageServiceImpl implements MessageService {
     private UserService userService;
 
     /**
-     * ㅒㅛㅆ | 2022.04.28
+     * OYT | 2022.04.28
      * @name sendMessage
      * @des 핸드폰 번호로 해당 인증문자 발송 및 DB에 인증 번호 저장
      */
